@@ -1,5 +1,6 @@
 # YandexMap
 
-contains initial version 4.1.0-lite of YandexMap
+contains version 4.7.0-lite of YandexMap
+see all info about versions and their changes here: https://yandex.ru/dev/mapkit/doc/ru/versions
 
 Wraps Yandex Propriatry Library as a SPM package
